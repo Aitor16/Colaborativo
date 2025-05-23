@@ -1,2 +1,3 @@
 にげるんだよ、smokey!
 commit 1
+commit 2
